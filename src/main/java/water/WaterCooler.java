@@ -8,8 +8,6 @@ public class WaterCooler {
     private WaterCooler() {
 
     }
-
-
     public static WaterCooler getInstance() {
         if (instance == null) {
 
