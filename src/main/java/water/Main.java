@@ -10,7 +10,6 @@ public class Main {
         WaterCooler cooler2 = WaterCooler.getInstance();
         cooler2.drinkWater();
 
-
         System.out.println(cooler1 == cooler2);
     }
 }
